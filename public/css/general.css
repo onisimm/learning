@@ -13,13 +13,11 @@ body {
 }
 
 .div-box {
+    background-color: #FFFFFF;
     border: 1px solid #ccc;
     border-radius: 6px;
     box-shadow: 0 1px 3px rgb(0 0 0 / 20%);
-}
-
-div {
-    background-color: #FFFFFF;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -34,9 +32,11 @@ h1 {
 p {
     font: inherit;
     color: #3F3F3F;
+    font-size: 14px;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    text-align: justify;
 }
