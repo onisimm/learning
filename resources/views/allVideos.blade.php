@@ -73,6 +73,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- <a href="{{route('ROUTE_NAME')}}" class="button smallButton">Add</a> -->
         </div>
     </body>
 </html>

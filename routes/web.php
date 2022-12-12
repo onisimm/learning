@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('allVideos');
 });
+
+// Route::view('/', 'layouts/app')->name('ROUTE_NAME');

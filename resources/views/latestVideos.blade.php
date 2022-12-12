@@ -63,7 +63,7 @@
                     </a>    
                 </div>
             </div>
-            <button type="button" class="button buttonSeeMore" onclick="switchView(videos)">See More</button>
+            <button type="button" class="button smallButton" onclick="switchView(videos)">See More</button>
         </div>
     </body>
 </html>
